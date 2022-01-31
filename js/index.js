@@ -43,7 +43,7 @@ loadImg(['img/new.png', 'img/hong.png', 'img/jin.png', 'img/niuniu.png', 'img/ti
   // 计算倒计时
   let timer1 = setInterval(() => {
     let nowTime = new Date(),
-      future = new Date("2021/02/12 00:00"),
+      future = new Date("2022/02/01 00:00"),
       // 时间差
       times = future - nowTime,
       // 时 分 秒
